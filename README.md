@@ -7,7 +7,7 @@ This script allows objects to be automatically snapped to the floor in Unity Edi
 ## Usage:
 - Add the script to the project.
 - Select the object you want to snap.
-- Press the 'S' key to snap the object to the floor.
+- Press the 'END' key to snap the object to the floor.（原仓库这里是使用的S建，但是和unity自带的漫游模式冲突了，所以改为了END键。同时也是对其了ue）
 
 
 
