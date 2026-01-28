@@ -10,7 +10,7 @@ using System.Linq;
 public class SnapFloor : MonoBehaviour
 {
 #if UNITY_EDITOR
-    [MenuItem("GameObject/snap object to floor _s")]
+    [MenuItem("GameObject/Snap object to floor _END")]
     private static void Menu()
     {
         Mesh colliderMesh;
@@ -217,3 +217,4 @@ public class SnapFloor : MonoBehaviour
     }
 #endif
 }
+
